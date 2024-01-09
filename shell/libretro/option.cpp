@@ -124,7 +124,7 @@ Option<int> MultiboardSlaves("", 0);
 
 // Maple
 
-Option<int> MouseSensitivity("", 100);
+Option<int> MouseSensitivity("", 10);
 Option<int> VirtualGamepadVibration("", 20);
 
 std::array<Option<MapleDeviceType>, 4> MapleMainDevices {
